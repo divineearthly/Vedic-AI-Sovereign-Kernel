@@ -1,0 +1,1 @@
+# Vedic-AI-Sovereign-Kernel
