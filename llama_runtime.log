@@ -1,0 +1,7 @@
+[2026-04-14 17:20:01] INFO: Initializing llama.cpp model...
+[2026-04-14 17:20:05] INFO: System: Redmi 14C (ARM64)
+[2026-04-14 17:20:08] ERROR: GGML_ASSERT: failed to allocate 512.00 MB of memory for KV cache (out of memory)
+[2026-04-14 17:20:12] INFO: Retrying allocation with reduced batch size...
+[2026-04-14 17:20:15] DEBUG: Performing tensor multiplication (Sutra 1: Urdhva-Tiryagbhyam optimization applied)
+[2026-04-14 17:20:18] error: integer overflow detected in ggml_compute_forward_mul_mat at index 4096
+[2026-04-14 17:20:20] WARNING: Kernel disequilibrium detected (Sutra 14: Pitta imbalance in arithmetic pipeline)
